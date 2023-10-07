@@ -1,9 +1,9 @@
-# RepoName
+# Sun
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/Sun
 ```
 
 ## Notes
